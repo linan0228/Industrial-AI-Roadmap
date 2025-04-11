@@ -1,0 +1,9 @@
+Industrial-AI-Roadmap/
+├── week01_CPP基础/
+│   ├── Day01_输入输出.cpp
+│   ├── Day02_条件判断.cpp
+│   └── Project_学生成绩管理.cpp
+├── notes/
+│   └── week01_notes.md
+├── bug_log.txt
+└── README.md
